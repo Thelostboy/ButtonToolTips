@@ -1,1 +1,1 @@
-# ButtonToolTips
+# ButtonToolTips Component
