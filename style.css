@@ -70,5 +70,6 @@ button:nth-child(1):hover::before{
 button:nth-child(2):hover::before{
     color:green;
 }
-
-
+button::-moz-focus-inner {
+    border: 0;
+}
